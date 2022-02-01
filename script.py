@@ -26,7 +26,7 @@ button = tk.Button(
 port = 587  # For starttls
 smtp_server = "smtp.gmail.com"
 sender_email = "culp_alexander@student.mahoningctc.com"
-password = "800D0FAa1"
+password = "password"
 
 def SendMessage():
     message = entry.get()
